@@ -7,6 +7,7 @@
     </ul>
   </div>
   <p align="center">
+    ## Technologies
     <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/TECHNOLOGIES.svg" align="center"/>
   </p>
 </div>
