@@ -19,7 +19,7 @@
       <a href="https://github.com/ogabrielrodrigues/sycko-web" target="_blank">
          <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/SYCKO.svg"/>
       </a>
-      <a href="https://github.com/ogabrielrodrigues/letmeask" target="_blank>
+      <a href="https://github.com/ogabrielrodrigues/letmeask" target="_blank">
          <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/LETMEASK.svg"/>
       </a>
   </div>
