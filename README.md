@@ -6,8 +6,9 @@
       <li>🌱 I'm currently studying React Javascript and React Native</li>
     </ul>
   </div>
-  
-  <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/TECHNOLOGIES.svg" align="center"/>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/TECHNOLOGIES.svg" align="center"/>
+  </p>
 </div>
 
 
