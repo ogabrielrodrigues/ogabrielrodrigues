@@ -15,7 +15,7 @@
   </p>
   
   ## Best Projects
-  <div>
+  <div align="center">
       <a href="https://github.com/ogabrielrodrigues/sycko-web" target="_blank">
          <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/SYCKO.svg"/>
       </a>
