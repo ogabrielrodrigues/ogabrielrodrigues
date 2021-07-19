@@ -1,4 +1,4 @@
-<div align="center">
+<div display="flex">
   <div style="display: flex;">
     <ul>
       <li>👋 Hi, I’m Gabriel Rodrigues</li> 
