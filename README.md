@@ -1,5 +1,5 @@
-<div display="flex">
-  <div style="display: flex;">
+<div>
+  <div>
     <ul>
       <li>👋 Hi, I’m Gabriel Rodrigues</li> 
       <li>👀 I'm interested in the Front-end and Web Design ecosystem</li>
