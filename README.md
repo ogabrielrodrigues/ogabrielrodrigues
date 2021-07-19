@@ -7,7 +7,7 @@
     </ul>
   </div>
   
-  <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/TECHNOLOGIES.svg" align/>
+  <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/main/TECHNOLOGIES.svg" align="center"/>
 </div>
 
 
