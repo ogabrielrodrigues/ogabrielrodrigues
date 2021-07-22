@@ -28,6 +28,16 @@
      </div>
   </div>
   
+ ## My settings:
+ ### Environment: [UBUNTU LINUX using WSL](https://docs.microsoft.com/pt-br/windows/wsl/install-win10)
+ ### IDE: [VS Code](https://code.visualstudio.com/)
+ ### Theme: [Dracula](https://draculatheme.com/)
+ ### Terminal: [Windows Terminal](https://www.microsoft.com/en/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
+ ### Shell: [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+ 
+ 
+  
+  
 
   
   
