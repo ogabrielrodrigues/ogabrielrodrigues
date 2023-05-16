@@ -30,15 +30,15 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielrodrigues.dev409@gmail.com&su=SUBJECT&body=BODY&bcc=gabrielrodrigues.dev409@gmail.com" alt="Outlook">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielrodrigues.dev409@gmail.com&su=SUBJECT&body=BODY&bcc=gabrielrodrigues.dev409@gmail.com" alt="Outlook" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielrodrigues.dev409@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/gabriel-rodrigues-956ab7214/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabriel-rodrigues-956ab7214/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rodrigues-956ab7214/" /></a>
 
-  <a href="https://wa.me/17991045901" alt="WhatsApp">
+  <a href="https://wa.me/17991045901" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/17991045901"/></a>
 
-  <a href="https://www.instagram.com/ogabriel_rodrigues_/" alt="Instagram">
+  <a href="https://www.instagram.com/ogabriel_rodrigues_/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ogabriel_rodrigues_/"/></a>
 </p>  
