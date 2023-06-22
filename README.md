@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá sou <strong>Gabriel</strong>, estou cursando o 3° Ano de Desenvolvimento de Sistemas na ETEC e sou desenvolvedor back-end.
+  Hello, I'm <strong>Gabriel</strong>, I'm studying the 3rd Year of Systems Development at ETEC and I'm a web developer. 
 </p>
 
 <p align="left">
-  🉐 Linguagens: 
+  🉐 Languages: 
 </p>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -18,7 +18,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
 <p align="left">
-  🔧 Ferramentas:
+  🔧 Tools:
 </p>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -26,7 +26,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <p align="left">
-  📧 Entre em contato: ⤵️
+  📧 My Contact: ⤵️
 </p>
 
 <p align="left">
