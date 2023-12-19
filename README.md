@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi, I'm <strong>Gabriel</strong> 👋. I'm studying the 3rd Year of Systems Development at ETEC and I'm a web developer. 
+  Hello, my name is <strong>Gabriel</strong>👋. I graduated as a Systems Development Technician at ETEC and am a web developer. 
 </p>
 
 <p align="left">
