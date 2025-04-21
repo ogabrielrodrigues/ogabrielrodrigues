@@ -1,6 +1,6 @@
 <img src=".github/illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Illustration">
 
-<p align="left"> 
+<p align="justify"> 
   My name is <strong>Gabriel 👋</strong>, I'm 19 years old, I'm a <strong>Systems Development technician</strong> at ETEC in Barretos SP, I'm currently studying <strong>Information Systems</strong> at UNIFAFIBE in Bebedouro SP, and I have no professional experience. However, I have been developing personal and study projects assiduously for almost 4 years, since then I participated in a hackathon in 2023 where I won 2nd place for best solution. My technical knowledge encompasses <strong>NodeJS, React, Go, PostgreSQL, Docker, AWS, Linux</strong>.
 </p>
 
